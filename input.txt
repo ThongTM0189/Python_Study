@@ -1,0 +1,1 @@
+Hướng dẫn cách xử lý file trong Python. Bạn sẽ biết cách đọc file trong python bằng mode r trong python, với các phương pháp như đọc toàn bộ file trong python hoặc đọc từng dòng file txt trong Python bằng các phương thức như read(), readlines() trong python sau bài học này.

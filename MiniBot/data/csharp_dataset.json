@@ -1,0 +1,4 @@
+[
+    {"question": "Làm thế nào để khai báo một biến trong C#?", "answer": "Bạn có thể khai báo biến như sau: int x = 10;"},
+    {"question": "Sự khác nhau giữa `var` và `dynamic` trong C#?", "answer": "var là kiểu xác định tại compile-time, còn dynamic xác định tại runtime."}
+  ]
